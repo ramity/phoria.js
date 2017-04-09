@@ -1,0 +1,27 @@
+{
+  "name": "phoria",
+  "version": "1.0.0",
+  "description": "JavaScript library for simple 3D graphics and visualisation on a HTML5 canvas 2D renderer.",
+  "author": "kevinroast <https://github.com/kevinroast>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ramity/phoria.js"
+  },
+  "bugs": {
+    "url": "https://github.com/nodejitsu/browsenpm.org/issues"
+  },
+  "keywords": [
+    "JavaScript",
+    "3D graphics",
+    "HTML5",
+    "canvas"
+  ],
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "preferGlobal": false,
+  "private": true,
+  "subdomain": "foobar",
+  "license": "MIT"
+}
